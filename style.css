@@ -16,14 +16,14 @@
     margin-bottom: -8px;
   }
 }
-.navbar{
+.navbar {
   background: #000;
 }
 .navbar-brand {
   font-family: "Nunito", sans-serif;
   font-size: 25px;
 }
-.navbar-toggler-icon{
+.navbar-toggler-icon {
   background-color: white;
 }
 
@@ -208,15 +208,6 @@ section {
 }
 
 /* menu */
-#kiri {
-  background-color: white;
-  margin-left: 100px;
-}
-@media screen and (max-width: 480px) {
-  #kiri {
-    margin-left: 0;
-  }
-}
 .section-black h2 {
   font-size: 14px;
   font-weight: 500;
